@@ -19,7 +19,7 @@
 #### K8s commands
 
 ##### start Minikube and check status
-    minikube start --vm-driver=hyperkit 
+    minikube start 
     minikube status
 
 ##### get minikube node's ip address
