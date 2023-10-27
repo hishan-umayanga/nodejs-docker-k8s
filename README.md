@@ -1,10 +1,20 @@
-### Repository for the K8s in 1 hour video
+### Kubernetes Dashboard
+
+![home page](https://github.com/hishan-umayanga/nodejs-docker-k8s/blob/master/dashboard.png)
+
+### Services
+![home page](https://github.com/hishan-umayanga/nodejs-docker-k8s/blob/master/services.png).
+
+
+### Repository for the K8s
 
 #### K8s manifest files 
 * mongo-config.yaml
 * mongo-secret.yaml
 * mongo.yaml
 * webapp.yaml
+
+
 
 #### K8s commands
 
